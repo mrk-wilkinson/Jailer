@@ -9,3 +9,5 @@ serde = {version = "1.0.217", features = ["derive"]}
 structopt = "0.3.26"
 tokio = {version = "1.43.0", features = ["full"]}
 Justice = { path = "../Justice" }
+serde_json = "1.0.135"
+chrono = "0.4.39"
